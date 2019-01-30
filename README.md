@@ -9,13 +9,13 @@ and the MATLAB script for image comparison.
 
 
 ******************************************************************************************************
-			                    	CREATING A TEST AND LEGEND FILE FOR ORTHOFIX
+     	CREATING A TEST AND LEGEND FILE FOR ORTHOFIX
 ******************************************************************************************************
 
 
 
 ******************************************************************************************************
-					                                  	LEGEND FILE
+		LEGEND FILE
 ******************************************************************************************************
 The legend file maps the buttons present on the StimOnTrack iOS app to an (x,y) cartesian coordinate,
 and allows the user to write special commands such as Screenshots into the test case.
@@ -92,7 +92,7 @@ on the coordinates received.
 
 
 ******************************************************************************************************
-				                                      		TEST FILE
+	TEST FILE
 ******************************************************************************************************
 The test file is used to convert test cases into a format readable by the python script. Using buttons
 defined in the Legend file, test cases that are autonomous and non autonomous can be created. There are
